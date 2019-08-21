@@ -59,32 +59,6 @@
       "first": "離開站",
       "second": "抵達站"
     },
-    "trainTypes": {
-      "Local": {
-        "name": "區間"
-      },
-      "Other Local": {
-        "name": "普快"
-      },
-      "Fast Local": {
-        "name": "區間快"
-      },
-      "Chu-kuang": {
-        "name": "莒光"
-      },
-      "Tze-chiang": {
-        "name": "自強"
-      },
-      "Fu-Hsing": {
-        "name": "復興"
-      },
-      "Taroko": {
-        "name": "太魯閣"
-      },
-      "Puyuma": {
-        "name": "普悠瑪"
-      }
-    },
     "details": {
       "top": {
         "title": ""

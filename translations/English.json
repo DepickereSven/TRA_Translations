@@ -59,32 +59,6 @@
       "first": "Departure Station",
       "second": "Arrival Station"
     },
-    "trainTypes": {
-      "Local": {
-        "name": "Local"
-      },
-      "Other Local": {
-        "name": "Ordinary"
-      },
-      "Fast Local": {
-        "name": "Fast Local"
-      },
-      "Chu-kuang": {
-        "name": "Chu-kuang"
-      },
-      "Tze-chiang": {
-        "name": "Tze-chiang"
-      },
-      "Fu-Hsing": {
-        "name": "Fu-Hsing"
-      },
-      "Taroko": {
-        "name": "Taroko"
-      },
-      "Puyuma": {
-        "name": "Puyuma"
-      }
-    },
     "details": {
       "top": {
         "title": "Travel Details"

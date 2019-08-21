@@ -59,37 +59,6 @@
       "first": "",
       "second": ""
     },
-    "trainTypes": {
-      "Local": {
-        "name": ""
-      },
-      "Other Local": {
-        "name": ""
-      },
-      "Fast Local": {
-        "name": ""
-      },
-      "Chu-kuang": {
-        "name": ""
-      },
-      "Tze-chiang": {
-        "name": ""
-      },
-      "Fu-Hsing": {
-        "name": ""
-      },
-      "Taroko": {
-        "name": ""
-      },
-      "Puyuma": {
-        "name": ""
-      }
-    },
-    "details": {
-      "top": {
-        "title": ""
-      }
-    },
     "stopDetails": {
       "top": {
         "title": "",

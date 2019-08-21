@@ -59,32 +59,6 @@
       "first": "출발역",
       "second": "도착역"
     },
-    "trainTypes": {
-      "Local": {
-        "name": ""
-      },
-      "Other Local": {
-        "name": ""
-      },
-      "Fast Local": {
-        "name": ""
-      },
-      "Chu-kuang": {
-        "name": ""
-      },
-      "Tze-chiang": {
-        "name": ""
-      },
-      "Fu-Hsing": {
-        "name": ""
-      },
-      "Taroko": {
-        "name": ""
-      },
-      "Puyuma": {
-        "name": ""
-      }
-    },
     "details": {
       "top": {
         "title": "여행내역"
