@@ -1,0 +1,101 @@
+{
+  "language": {
+    "nameNative": ""
+  },
+  "settings": {
+    "top": {
+      "title": ""
+    },
+    "center": {
+      "language":{
+        "chooseTitle": "",
+        "button": ""
+      },
+      "otherInfo": {
+        "rate": "",
+        "contactUs": "",
+        "openSource": "",
+        "Version": ""
+      }
+    }
+  },
+  "select": {
+    "searchBar": {
+      "hintText": {
+        "startStation":  "",
+        "endStation": ""
+      }
+    },
+    "routeDetails": {
+      "departure": {
+        "hint": "",
+        "label": ""
+      },
+      "arrival": {
+        "hint": "",
+        "label": ""
+      },
+      "time": {
+        "label": "",
+        "modal": {
+          "top": {
+            "first": "",
+            "second": ""
+          },
+          "center": {
+            "button": ""
+          },
+          "bottom": {
+            "leftBtn": "",
+            "rightBtn": ""
+          }
+        }
+      },
+      "button": ""
+    }
+  },
+  "route": {
+    "top": {
+      "first": "",
+      "second": ""
+    },
+    "trainTypes": {
+      "Local": {
+        "name": ""
+      },
+      "Other Local": {
+        "name": ""
+      },
+      "Fast Local": {
+        "name": ""
+      },
+      "Chu-kuang": {
+        "name": ""
+      },
+      "Tze-chiang": {
+        "name": ""
+      },
+      "Fu-Hsing": {
+        "name": ""
+      },
+      "Taroko": {
+        "name": ""
+      },
+      "Puyuma": {
+        "name": ""
+      }
+    },
+    "details": {
+      "top": {
+        "title": ""
+      }
+    },
+    "stopDetails": {
+      "top": {
+        "title": "",
+        "type": "",
+        "number": ""
+      }
+    }
+  }
+}
