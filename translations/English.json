@@ -1,0 +1,98 @@
+{
+  "settings": {
+    "top": {
+      "title": "Settings Menu"
+    },
+    "center": {
+      "language":{
+        "chooseTitle": "Choose your language",
+        "button": "Save"
+      },
+      "otherInfo": {
+        "rate": "Rate us on Google Play",
+        "contactUs": "Email us",
+        "openSource": "Visit the project on Github",
+        "Version": "Version"
+      }
+    }
+  },
+  "select": {
+    "searchBar": {
+      "hintText": {
+        "startStation":  "Select departure station",
+        "endStation": "Select arrival station"
+      }
+    },
+    "routeDetails": {
+      "departure": {
+        "hint": "Select station",
+        "label": "From"
+      },
+      "arrival": {
+        "hint": "Select station",
+        "label": "To"
+      },
+      "time": {
+        "label": "Time",
+        "modal": {
+          "top": {
+            "first": "DEPARTURE",
+            "second": "ARRIVAL"
+          },
+          "center": {
+            "button": "Now"
+          },
+          "bottom": {
+            "leftBtn": "DISCARD",
+            "rightBtn": "CONFIRM"
+          }
+        }
+      },
+      "button": "SEARCH"
+    }
+  },
+  "route": {
+    "top": {
+      "first": "Departure Station",
+      "second": "Arrival Station"
+    },
+    "trainTypes": {
+      "Local": {
+        "name": "Local"
+      },
+      "Other Local": {
+        "name": "Ordinary"
+      },
+      "Fast Local": {
+        "name": "Fast Local"
+      },
+      "Chu-kuang": {
+        "name": "Chu-kuang"
+      },
+      "Tze-chiang": {
+        "name": "Tze-chiang"
+      },
+      "Fu-Hsing": {
+        "name": "Fu-Hsing"
+      },
+      "Taroko": {
+        "name": "Taroko"
+      },
+      "Puyuma": {
+        "name": "Puyuma"
+      }
+    },
+    "details": {
+      "top": {
+        "title": "Travel Details"
+      }
+    },
+    "stopDetails": {
+      "top": {
+        "title": "Train Details",
+        "type": "Type",
+        "number": "Number"
+      }
+    }
+  }
+}
