@@ -1,4 +1,7 @@
 {
+  "language": {
+    "nameNative": "中文"
+  },
   "settings": {
     "top": {
       "title": "Settings Menu"
