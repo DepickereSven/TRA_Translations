@@ -1,0 +1,98 @@
+{
+  "settings": {
+    "top": {
+      "title": ""
+    },
+    "center": {
+      "language":{
+        "chooseTitle": "",
+        "button": ""
+      },
+      "otherInfo": {
+        "rate": "",
+        "contactUs": "",
+        "openSource": "",
+        "Version": ""
+      }
+    }
+  },
+  "select": {
+    "searchBar": {
+      "hintText": {
+        "startStation":  "選擇離開的車站",
+        "endStation": "選擇抵達的車站"
+      }
+    },
+    "routeDetails": {
+      "departure": {
+        "hint": "選擇哪一站",
+        "label": "從"
+      },
+      "arrival": {
+        "hint": "選擇哪一站",
+        "label": "去"
+      },
+      "time": {
+        "label": "時間",
+        "modal": {
+          "top": {
+            "first": "離開",
+            "second": "抵達"
+          },
+          "center": {
+            "button": "現在"
+          },
+          "bottom": {
+            "leftBtn": "取消",
+            "rightBtn": "確認"
+          }
+        }
+      },
+      "button": "搜尋"
+    }
+  },
+  "route": {
+    "top": {
+      "first": "離開站",
+      "second": "抵達站"
+    },
+    "trainTypes": {
+      "Local": {
+        "name": "區間"
+      },
+      "Other Local": {
+        "name": "普快"
+      },
+      "Fast Local": {
+        "name": "區間快"
+      },
+      "Chu-kuang": {
+        "name": "莒光"
+      },
+      "Tze-chiang": {
+        "name": "自強"
+      },
+      "Fu-Hsing": {
+        "name": "復興"
+      },
+      "Taroko": {
+        "name": "太魯閣"
+      },
+      "Puyuma": {
+        "name": "普悠瑪"
+      }
+    },
+    "details": {
+      "top": {
+        "title": ""
+      }
+    },
+    "stopDetails": {
+      "top": {
+        "title": "",
+        "type": "",
+        "number": ""
+      }
+    }
+  }
+}
