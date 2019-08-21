@@ -1,75 +1,72 @@
 {
-  "language": {
-    "nameNative": "Nederlands"
-  },
-  "settings": {
-    "top": {
-      "title": ""
-    },
-    "center": {
-      "language":{
-        "chooseTitle": "",
-        "button": ""
-      },
-      "otherInfo": {
-        "rate": "",
-        "contactUs": "",
-        "openSource": "",
-        "Version": ""
-      }
-    }
-  },
-  "select": {
-    "searchBar": {
-      "hintText": {
-        "startStation":  "",
-        "endStation": ""
-      }
-    },
-    "routeDetails": {
-      "departure": {
-        "hint": "",
-        "label": ""
-      },
-      "arrival": {
-        "hint": "",
-        "label": ""
-      },
-      "time": {
-        "label": "",
-        "modal": {
-          "top": {
-            "first": "",
-            "second": ""
-          },
-          "center": {
-            "button": ""
-          },
-          "bottom": {
-            "leftBtn": "",
-            "rightBtn": ""
-          }
+    "settings": {
+        "top": {
+            "title": "Instellingen"
+        },
+        "center": {
+            "language": {
+                "chooseTitle": "Kies uw taal",
+                "button": "Opslaan"
+            },
+            "otherInfo": {
+                "rate": "Geef ons een beoordeling op Google Play",
+                "contactUs": "Mail ons",
+                "openSource": "Bezoek het project op Github",
+                "Version": "Versie"
+            }
         }
-      },
-      "button": ""
-    }
-  },
-  "route": {
-    "top": {
-      "first": "",
-      "second": ""
     },
-    "details": {
-      "top": {
-        "title": ""
-      }
+    "select": {
+        "searchBar": {
+            "hintText": {
+                "startStation": "Van",
+                "endStation": "Naar"
+            }
+        },
+        "routeDetails": {
+            "departure": {
+                "hint": "Kies een station",
+                "label": "Van"
+            },
+            "arrival": {
+                "hint": "Kies een station",
+                "label": "Naar"
+            },
+            "time": {
+                "label": "Tijd",
+                "modal": {
+                    "top": {
+                        "first": "VERTREK",
+                        "second": "AANKOMST"
+                    },
+                    "center": {
+                        "button": "Nu"
+                    },
+                    "bottom": {
+                        "leftBtn": "ANNULEREN",
+                        "rightBtn": "BEVESTIGEN"
+                    }
+                }
+            },
+            "button": "ZOEKEN"
+        }
     },
-    "stopDetails": {
-      "top": {
-        "title": "",
-        "type": "",
-        "number": ""
-      }
+    "route": {
+        "top": {
+            "first": "Van",
+            "second": "Naar"
+        },
+        "details": {
+            "top": {
+                "title": "Reisgegevens"
+            }
+        },
+        "stopDetails": {
+            "top": {
+                "title": "Trein Details",
+                "type": "Type",
+                "number": "Nummer"
+            }
+        }
     }
-  }
 }
