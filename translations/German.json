@@ -1,75 +1,72 @@
 {
-  "language": {
-    "nameNative": "Deutsch"
-  },
-  "settings": {
-    "top": {
-      "title": ""
+    "settings": {
+        "top": {
+            "title": ""
+        },
+        "center": {
+            "language": {
+                "chooseTitle": "",
+                "button": ""
+            },
+            "otherInfo": {
+                "rate": "",
+                "contactUs": "",
+                "openSource": "",
+                "Version": "Version"
+            }
+        }
     },
-    "center": {
-      "language":{
-        "chooseTitle": "",
-        "button": ""
-      },
-      "otherInfo": {
-        "rate": "",
-        "contactUs": "",
-        "openSource": "",
-        "Version": ""
-      }
-    }
-  },
-  "select": {
-    "searchBar": {
-      "hintText": {
-        "startStation":  "",
-        "endStation": ""
-      }
+    "select": {
+        "searchBar": {
+            "hintText": {
+                "startStation": "",
+                "endStation": ""
+            }
+        },
+        "routeDetails": {
+            "departure": {
+                "hint": "",
+                "label": "Von"
+            },
+            "arrival": {
+                "hint": "",
+                "label": "Zu"
+            },
+            "time": {
+                "label": "",
+                "modal": {
+                    "top": {
+                        "first": "ABFAHRT",
+                        "second": "ANKUNFT"
+                    },
+                    "center": {
+                        "button": "Jetzt"
+                    },
+                    "bottom": {
+                        "leftBtn": "VERWERFEN",
+                        "rightBtn": "BESTÄTIGEN"
+                    }
+                }
+            },
+            "button": "SUCHE"
+        }
     },
-    "routeDetails": {
-      "departure": {
-        "hint": "",
-        "label": ""
-      },
-      "arrival": {
-        "hint": "",
-        "label": ""
-      },
-      "time": {
-        "label": "",
-        "modal": {
-          "top": {
+    "route": {
+        "top": {
             "first": "",
             "second": ""
-          },
-          "center": {
-            "button": ""
-          },
-          "bottom": {
-            "leftBtn": "",
-            "rightBtn": ""
-          }
+        },
+        "details": {
+            "top": {
+                "title": ""
+            }
+        },
+        "stopDetails": {
+            "top": {
+                "title": "",
+                "type": "Typ",
+                "number": "Nummer"
+            }
         }
-      },
-      "button": ""
     }
-  },
-  "route": {
-    "top": {
-      "first": "",
-      "second": ""
-    },
-    "details": {
-      "top": {
-        "title": ""
-      }
-    },
-    "stopDetails": {
-      "top": {
-        "title": "",
-        "type": "",
-        "number": ""
-      }
-    }
-  }
 }
