@@ -14,7 +14,8 @@
                 "openSource": "Bezoek het project op Github",
                 "Version": "Versie"
             }
-        }
+        },
+        "error": "Je moet je VAN en NAAR invullen!"
     },
     "select": {
         "searchBar": {
