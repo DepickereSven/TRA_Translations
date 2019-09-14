@@ -14,8 +14,7 @@
                 "openSource": "Bezoek het project op Github",
                 "Version": "Versie"
             }
-        },
-        "error": "Je moet je VAN en NAAR invullen!"
+        }
     },
     "select": {
         "searchBar": {
@@ -50,7 +49,9 @@
                 }
             },
             "button": "ZOEKEN"
-        }
+        },
+        "error": "Je moet je VAN en NAAR invullen!",
+        "internetError": ""
     },
     "route": {
         "top": {
@@ -69,5 +70,9 @@
                 "number": "Nummer"
             }
         }
+    },
+    "otherErrors": {
+        "stations": "",
+        "route": ""
     }
 }
