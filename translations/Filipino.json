@@ -7,7 +7,7 @@
       "title": ""
     },
     "center": {
-      "language":{
+      "language": {
         "chooseTitle": "",
         "button": ""
       },
@@ -22,7 +22,7 @@
   "select": {
     "searchBar": {
       "hintText": {
-        "startStation":  "",
+        "startStation": "",
         "endStation": ""
       }
     },
@@ -52,7 +52,9 @@
         }
       },
       "button": ""
-    }
+    },
+    "error": "",
+    "internetError": ""
   },
   "route": {
     "top": {
@@ -71,5 +73,9 @@
         "number": ""
       }
     }
+  },
+  "otherErrors": {
+    "stations": "",
+    "route": ""
   }
 }
