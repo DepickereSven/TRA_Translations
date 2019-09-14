@@ -52,7 +52,9 @@
         }
       },
       "button": "찾다"
-    }
+    },
+    "error": "",
+    "internetError": ""
   },
   "route": {
     "top": {
@@ -71,5 +73,9 @@
         "number": "번호"
       }
     }
+  },
+  "otherErrors": {
+    "stations": "",
+    "route": ""
   }
 }
