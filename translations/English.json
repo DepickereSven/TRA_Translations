@@ -75,7 +75,7 @@
     }
   },
   "otherErrors": {
-    "stations": "Couldn't get the station information",
+    "stations": "Please, Try again later!",
     "route": "We can't find any route for that day!"
   }
 }
