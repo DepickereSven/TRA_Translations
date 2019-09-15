@@ -51,8 +51,8 @@
             },
             "button": "搜尋"
         },
-        "error": "",
-        "internetError": ""
+        "error": "離開的站!",
+        "internetError": "沒有網絡連接!"
     },
     "route": {
         "top": {
@@ -73,7 +73,7 @@
         }
     },
     "otherErrors": {
-        "stations": "",
-        "route": ""
+        "stations": "沒有網絡連接!",
+        "route": "那天我們找不到任何路線!"
     }
 }
