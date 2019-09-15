@@ -51,7 +51,7 @@
             "button": "ZOEKEN"
         },
         "error": "Je moet je VAN en NAAR invullen!",
-        "internetError": ""
+        "internetError": "Geen internetverbinding!"
     },
     "route": {
         "top": {
@@ -72,7 +72,7 @@
         }
     },
     "otherErrors": {
-        "stations": "",
-        "route": ""
+        "stations": "Gelieve later nog eens te proberen!",
+        "route": "Geen route mogelijk voor die dag!"
     }
 }
