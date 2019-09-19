@@ -1,7 +1,4 @@
 {
-  "language": {
-    "nameNative": "Español"
-  },
   "settings": {
     "top": {
       "title": "Opciones"
@@ -12,7 +9,7 @@
         "button": "Guardar"
       },
       "otherInfo": {
-        "rate": "Calificamos en Google Play",
+        "rate": "Valoranos en Google Play",
         "contactUs": "Contacta con nosotros mediante email",
         "openSource": "Visita la página del proyecto en Github",
         "Version": "Versión"
@@ -28,15 +25,15 @@
     },
     "routeDetails": {
       "departure": {
-        "hint": "Selecciona una estación",
+        "hint": "Escoge una estación",
         "label": "Origen"
       },
       "arrival": {
-        "hint": "Selecciona una estación",
+        "hint": "Escoge una estación",
         "label": "Destino"
       },
       "time": {
-        "label": "Hora",
+        "label": "Fecha y hora",
         "modal": {
           "top": {
             "first": "Salida",
@@ -58,7 +55,7 @@
   },
   "route": {
     "top": {
-      "first": "Estación origen",
+      "first": "Estación de origen",
       "second": "Estación de destino"
     },
     "details": {
