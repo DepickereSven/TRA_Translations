@@ -1,0 +1,81 @@
+{
+  "language": {
+    "nameNative": "Español"
+  },
+  "settings": {
+    "top": {
+      "title": "Opciones"
+    },
+    "center": {
+      "language":{
+        "chooseTitle": "Selecciona un idioma",
+        "button": "Guardar"
+      },
+      "otherInfo": {
+        "rate": "Calificamos en Google Play",
+        "contactUs": "Contacta con nosotros mediante email",
+        "openSource": "Visita la página del proyecto en Github",
+        "Version": "Versión"
+      }
+    }
+  },
+  "select": {
+    "searchBar": {
+      "hintText": {
+        "startStation":  "Selecciona la estación de origen",
+        "endStation": "Selecciona la estación de destino"
+      }
+    },
+    "routeDetails": {
+      "departure": {
+        "hint": "Selecciona una estación",
+        "label": "Origen"
+      },
+      "arrival": {
+        "hint": "Selecciona una estación",
+        "label": "Destino"
+      },
+      "time": {
+        "label": "Hora",
+        "modal": {
+          "top": {
+            "first": "Salida",
+            "second": "Llegada"
+          },
+          "center": {
+            "button": "Ahora"
+          },
+          "bottom": {
+            "leftBtn": "Descartar",
+            "rightBtn": "Confirmar"
+          }
+        }
+      },
+      "button": "Buscar"
+    },
+    "error": "¡No has seleccionado estación de origen o destino!",
+    "internetError": "¡No hay conexión a internet!"
+  },
+  "route": {
+    "top": {
+      "first": "Estación origen",
+      "second": "Estación de destino"
+    },
+    "details": {
+      "top": {
+        "title": "Detalles del recorrido"
+      }
+    },
+    "stopDetails": {
+      "top": {
+        "title": "Detalles del tren",
+        "type": "Tipo",
+        "number": "Número"
+      }
+    }
+  },
+  "otherErrors": {
+    "stations": "¡Por favor, inténtelo de nuevo más tarde!",
+    "route": "¡No hemos podido encontrar ningún itinerario para ese día!"
+  }
+}
