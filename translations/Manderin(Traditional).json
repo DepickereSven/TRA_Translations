@@ -9,6 +9,7 @@
                 "button": "保存"
             },
             "otherInfo": {
+                "support": "幫助應用程序",
                 "rate": "在Google Play上為我們評分",
                 "contactUs": "電郵我們",
                 "openSource": "訪問Github上的項目",
@@ -75,5 +76,17 @@
     "otherErrors": {
         "stations": "沒有網絡連接!",
         "route": "那天我們找不到任何路線!"
+    },
+    "thanks": {
+        "top": {
+            "title": ""
+        },
+        "information": {
+            "intro": "",
+            "btn": ""
+        },
+        "thanks":{
+            "intro": ""
+        }
     }
 }
