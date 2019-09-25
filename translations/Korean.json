@@ -12,6 +12,7 @@
         "button": "저장하다"
       },
       "otherInfo": {
+        "support": "앱을 도와주세요",
         "rate": "Google Play에 대한 평가",
         "contactUs": "Email을 보내십시오",
         "openSource": "Github 프로젝트 방문",
@@ -77,5 +78,17 @@
   "otherErrors": {
     "stations": "나중에 다시 시도하세요!",
     "route": "우리는 그 날에 대한 경로를 찾을 수 없습니다!"
+  },
+  "thanks": {
+    "top": {
+      "title": ""
+    },
+    "information": {
+      "intro": "",
+      "btn": ""
+    },
+    "thanks":{
+      "intro": ""
+    }
   }
 }
