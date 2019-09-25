@@ -62,6 +62,10 @@
     "details": {
       "top": {
         "title": "Detalles del recorrido"
+      },
+      "price": {
+        "single": "",
+        "ePrice": ""
       }
     },
     "stopDetails": {
