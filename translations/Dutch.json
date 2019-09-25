@@ -9,6 +9,7 @@
                 "button": "Opslaan"
             },
             "otherInfo": {
+                "support": "Help de app",
                 "rate": "Beoordeel ons op Google Play",
                 "contactUs": "Mail ons",
                 "openSource": "Bezoek het project op Github",
@@ -74,5 +75,17 @@
     "otherErrors": {
         "stations": "Gelieve later nog eens te proberen!",
         "route": "Geen route mogelijk voor die dag!"
+    },
+    "thanks": {
+        "top": {
+            "title": "Informatie"
+        },
+        "information": {
+            "intro": "Als je wilt helpen, kan je helpen met het vertalen naar een van de volgende talen:",
+            "btn": "Help met vertalen"
+        },
+        "thanks":{
+            "intro": "Ik wil graag de volgende personen bedanken voor te helpen met vertalen:"
+        }
     }
 }
