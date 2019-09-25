@@ -63,6 +63,10 @@
         "details": {
             "top": {
                 "title": "旅行細節"
+            },
+            "price": {
+                "single": "單程票",
+                "ePrice": "電子票證"
             }
         },
         "stopDetails": {
