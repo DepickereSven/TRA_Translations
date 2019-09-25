@@ -9,6 +9,7 @@
         "button": "Guardar"
       },
       "otherInfo": {
+        "support": "",
         "rate": "Valoranos en Google Play",
         "contactUs": "Contacta con nosotros mediante email",
         "openSource": "Visita la página del proyecto en Github",
@@ -74,5 +75,17 @@
   "otherErrors": {
     "stations": "¡Por favor, inténtelo de nuevo más tarde!",
     "route": "¡No hemos podido encontrar ningún itinerario para ese día!"
+  },
+  "thanks": {
+    "top": {
+      "title": ""
+    },
+    "information": {
+      "intro": "",
+      "btn": ""
+    },
+    "thanks":{
+      "intro": ""
+    }
   }
 }
