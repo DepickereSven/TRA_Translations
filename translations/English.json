@@ -12,6 +12,7 @@
         "button": "Save"
       },
       "otherInfo": {
+        "support": "Help the app",
         "rate": "Rate us on Google Play",
         "contactUs": "Email us",
         "openSource": "Visit the project on Github",
@@ -77,5 +78,17 @@
   "otherErrors": {
     "stations": "Please, Try again later!",
     "route": "We can't find any route for that day!"
+  },
+  "thanks": {
+      "top": {
+        "title": "Information"
+      },
+      "information": {
+        "intro": "If you want to help, you can help translating the following languages:",
+        "btn": "Help translating"
+      },
+      "thanks":{
+        "intro": "I would like to thank the following persons for helping translating:"
+      }
   }
 }
