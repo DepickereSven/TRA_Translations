@@ -62,6 +62,10 @@
         "details": {
             "top": {
                 "title": "Reisgegevens"
+            },
+            "price": {
+                "single": "Enkel Ticket",
+                "ePrice": "E-ticket"
             }
         },
         "stopDetails": {
