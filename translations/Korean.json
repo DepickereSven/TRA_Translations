@@ -65,6 +65,10 @@
     "details": {
       "top": {
         "title": "여행내역"
+      },
+      "price": {
+        "single": "승차권 편도",
+        "ePrice": "전자 티켓"
       }
     },
     "stopDetails": {
