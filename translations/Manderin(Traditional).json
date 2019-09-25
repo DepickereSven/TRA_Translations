@@ -1,96 +1,96 @@
 {
-    "settings": {
-        "top": {
-            "title": "設定功能表"
-        },
-        "center": {
-            "language": {
-                "chooseTitle": "選擇你的語言",
-                "button": "保存"
-            },
-            "otherInfo": {
-                "support": "幫助應用程序",
-                "rate": "在Google Play上為我們評分",
-                "contactUs": "電郵我們",
-                "openSource": "訪問Github上的項目",
-                "Version": "版"
-            }
-        },
-        "error": ""
+  "settings": {
+    "top": {
+      "title": "設定功能表"
     },
-    "select": {
-        "searchBar": {
-            "hintText": {
-                "startStation": "選擇離開的車站",
-                "endStation": "選擇抵達的車站"
-            }
-        },
-        "routeDetails": {
-            "departure": {
-                "hint": "選擇哪一站",
-                "label": "從"
-            },
-            "arrival": {
-                "hint": "選擇哪一站",
-                "label": "去"
-            },
-            "time": {
-                "label": "時間",
-                "modal": {
-                    "top": {
-                        "first": "離開",
-                        "second": "抵達"
-                    },
-                    "center": {
-                        "button": "現在"
-                    },
-                    "bottom": {
-                        "leftBtn": "取消",
-                        "rightBtn": "確認"
-                    }
-                }
-            },
-            "button": "搜尋"
-        },
-        "error": "離開的站!",
-        "internetError": "沒有網絡連接!"
+    "center": {
+      "language": {
+        "chooseTitle": "選擇你的語言",
+        "button": "保存"
+      },
+      "otherInfo": {
+        "support": "幫助應用程序",
+        "rate": "在Google Play上為我們評分",
+        "contactUs": "電郵我們",
+        "openSource": "訪問Github上的項目",
+        "Version": "版"
+      }
     },
-    "route": {
-        "top": {
-            "first": "離開站",
-            "second": "抵達站"
-        },
-        "details": {
-            "top": {
-                "title": "旅行細節"
-            },
-            "price": {
-                "single": "單程票",
-                "ePrice": "電子票證"
-            }
-        },
-        "stopDetails": {
-            "top": {
-                "title": "火車詳情",
-                "type": "類型",
-                "number": "數"
-            }
+    "error": ""
+  },
+  "select": {
+    "searchBar": {
+      "hintText": {
+        "startStation": "選擇離開的車站",
+        "endStation": "選擇抵達的車站"
+      }
+    },
+    "routeDetails": {
+      "departure": {
+        "hint": "選擇哪一站",
+        "label": "從"
+      },
+      "arrival": {
+        "hint": "選擇哪一站",
+        "label": "去"
+      },
+      "time": {
+        "label": "時間",
+        "modal": {
+          "top": {
+            "first": "離開",
+            "second": "抵達"
+          },
+          "center": {
+            "button": "現在"
+          },
+          "bottom": {
+            "leftBtn": "取消",
+            "rightBtn": "確認"
+          }
         }
+      },
+      "button": "搜尋"
     },
-    "otherErrors": {
-        "stations": "沒有網絡連接!",
-        "route": "那天我們找不到任何路線!"
+    "error": "離開的站!",
+    "internetError": "沒有網絡連接!"
+  },
+  "route": {
+    "top": {
+      "first": "離開站",
+      "second": "抵達站"
+    },
+    "details": {
+      "top": {
+        "title": "旅行細節"
+      },
+      "price": {
+        "single": "單程票",
+        "ePrice": "電子票證"
+      }
+    },
+    "stopDetails": {
+      "top": {
+        "title": "火車詳情",
+        "type": "類型",
+        "number": "數"
+      }
+    }
+  },
+  "otherErrors": {
+    "stations": "沒有網絡連接!",
+    "route": "那天我們找不到任何路線!"
+  },
+  "thanks": {
+    "top": {
+      "title": ""
+    },
+    "information": {
+      "intro": "",
+      "btn": ""
     },
     "thanks": {
-        "top": {
-            "title": ""
-        },
-        "information": {
-            "intro": "",
-            "btn": ""
-        },
-        "thanks":{
-            "intro": ""
-        }
+      "intro": ""
     }
+  }
 }

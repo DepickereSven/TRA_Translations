@@ -1,95 +1,95 @@
 {
-    "settings": {
-        "top": {
-            "title": "Instellingen"
-        },
-        "center": {
-            "language": {
-                "chooseTitle": "Kies uw taal",
-                "button": "Opslaan"
-            },
-            "otherInfo": {
-                "support": "Help de app",
-                "rate": "Beoordeel ons op Google Play",
-                "contactUs": "Mail ons",
-                "openSource": "Bezoek het project op Github",
-                "Version": "Versie"
-            }
+  "settings": {
+    "top": {
+      "title": "Instellingen"
+    },
+    "center": {
+      "language": {
+        "chooseTitle": "Kies uw taal",
+        "button": "Opslaan"
+      },
+      "otherInfo": {
+        "support": "Help de app",
+        "rate": "Beoordeel ons op Google Play",
+        "contactUs": "Mail ons",
+        "openSource": "Bezoek het project op Github",
+        "Version": "Versie"
+      }
+    }
+  },
+  "select": {
+    "searchBar": {
+      "hintText": {
+        "startStation": "Van",
+        "endStation": "Naar"
+      }
+    },
+    "routeDetails": {
+      "departure": {
+        "hint": "Kies een station",
+        "label": "Van"
+      },
+      "arrival": {
+        "hint": "Kies een station",
+        "label": "Naar"
+      },
+      "time": {
+        "label": "Tijd",
+        "modal": {
+          "top": {
+            "first": "VERTREK",
+            "second": "AANKOMST"
+          },
+          "center": {
+            "button": "Nu"
+          },
+          "bottom": {
+            "leftBtn": "ANNULEREN",
+            "rightBtn": "BEVESTIGEN"
+          }
         }
+      },
+      "button": "ZOEKEN"
     },
-    "select": {
-        "searchBar": {
-            "hintText": {
-                "startStation": "Van",
-                "endStation": "Naar"
-            }
-        },
-        "routeDetails": {
-            "departure": {
-                "hint": "Kies een station",
-                "label": "Van"
-            },
-            "arrival": {
-                "hint": "Kies een station",
-                "label": "Naar"
-            },
-            "time": {
-                "label": "Tijd",
-                "modal": {
-                    "top": {
-                        "first": "VERTREK",
-                        "second": "AANKOMST"
-                    },
-                    "center": {
-                        "button": "Nu"
-                    },
-                    "bottom": {
-                        "leftBtn": "ANNULEREN",
-                        "rightBtn": "BEVESTIGEN"
-                    }
-                }
-            },
-            "button": "ZOEKEN"
-        },
-        "error": "Je moet je VAN en NAAR invullen!",
-        "internetError": "Geen internetverbinding!"
+    "error": "Je moet je VAN en NAAR invullen!",
+    "internetError": "Geen internetverbinding!"
+  },
+  "route": {
+    "top": {
+      "first": "Van",
+      "second": "Naar"
     },
-    "route": {
-        "top": {
-            "first": "Van",
-            "second": "Naar"
-        },
-        "details": {
-            "top": {
-                "title": "Reisgegevens"
-            },
-            "price": {
-                "single": "Enkel Ticket",
-                "ePrice": "E-ticket"
-            }
-        },
-        "stopDetails": {
-            "top": {
-                "title": "Trein Details",
-                "type": "Type",
-                "number": "Nummer"
-            }
-        }
+    "details": {
+      "top": {
+        "title": "Reisgegevens"
+      },
+      "price": {
+        "single": "Enkel Ticket",
+        "ePrice": "E-ticket"
+      }
     },
-    "otherErrors": {
-        "stations": "Gelieve later nog eens te proberen!",
-        "route": "Geen route mogelijk voor die dag!"
+    "stopDetails": {
+      "top": {
+        "title": "Trein Details",
+        "type": "Type",
+        "number": "Nummer"
+      }
+    }
+  },
+  "otherErrors": {
+    "stations": "Gelieve later nog eens te proberen!",
+    "route": "Geen route mogelijk voor die dag!"
+  },
+  "thanks": {
+    "top": {
+      "title": "Informatie"
+    },
+    "information": {
+      "intro": "Als je wilt helpen, kan je helpen met het vertalen naar een van de volgende talen:",
+      "btn": "Help met vertalen"
     },
     "thanks": {
-        "top": {
-            "title": "Informatie"
-        },
-        "information": {
-            "intro": "Als je wilt helpen, kan je helpen met het vertalen naar een van de volgende talen:",
-            "btn": "Help met vertalen"
-        },
-        "thanks":{
-            "intro": "Ik wil graag de volgende personen bedanken voor te helpen met vertalen:"
-        }
+      "intro": "Ik wil graag de volgende personen bedanken voor te helpen met vertalen:"
     }
+  }
 }

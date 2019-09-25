@@ -4,7 +4,7 @@
       "title": "Opciones"
     },
     "center": {
-      "language":{
+      "language": {
         "chooseTitle": "Selecciona un idioma",
         "button": "Guardar"
       },
@@ -20,7 +20,7 @@
   "select": {
     "searchBar": {
       "hintText": {
-        "startStation":  "Selecciona la estación de origen",
+        "startStation": "Selecciona la estación de origen",
         "endStation": "Selecciona la estación de destino"
       }
     },
@@ -88,7 +88,7 @@
       "intro": "",
       "btn": ""
     },
-    "thanks":{
+    "thanks": {
       "intro": ""
     }
   }

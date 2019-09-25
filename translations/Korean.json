@@ -7,7 +7,7 @@
       "title": "설정메뉴"
     },
     "center": {
-      "language":{
+      "language": {
         "chooseTitle": "당신의 언어를 선택하십시오",
         "button": "저장하다"
       },
@@ -23,7 +23,7 @@
   "select": {
     "searchBar": {
       "hintText": {
-        "startStation":  "출발역 선택",
+        "startStation": "출발역 선택",
         "endStation": "도착역 선택"
       }
     },
@@ -91,7 +91,7 @@
       "intro": "",
       "btn": ""
     },
-    "thanks":{
+    "thanks": {
       "intro": ""
     }
   }

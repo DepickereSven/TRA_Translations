@@ -7,7 +7,7 @@
       "title": "Settings Menu"
     },
     "center": {
-      "language":{
+      "language": {
         "chooseTitle": "Choose your language",
         "button": "Save"
       },
@@ -23,7 +23,7 @@
   "select": {
     "searchBar": {
       "hintText": {
-        "startStation":  "Select departure station",
+        "startStation": "Select departure station",
         "endStation": "Select arrival station"
       }
     },
@@ -84,15 +84,15 @@
     "route": "We can't find any route for that day!"
   },
   "thanks": {
-      "top": {
-        "title": "Information"
-      },
-      "information": {
-        "intro": "If you want to help, you can help translating the following languages:",
-        "btn": "Help translating"
-      },
-      "thanks":{
-        "intro": "I would like to thank the following persons for helping translating:"
-      }
+    "top": {
+      "title": "Information"
+    },
+    "information": {
+      "intro": "If you want to help, you can help translating the following languages:",
+      "btn": "Help translating"
+    },
+    "thanks": {
+      "intro": "I would like to thank the following persons for helping translating:"
+    }
   }
 }
