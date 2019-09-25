@@ -65,6 +65,10 @@
     "details": {
       "top": {
         "title": "Travel Details"
+      },
+      "price": {
+        "single": "Single Ticket",
+        "ePrice": "E-ticket"
       }
     },
     "stopDetails": {
