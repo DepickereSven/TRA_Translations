@@ -9,11 +9,11 @@
                 "button": "Speichern"
             },
             "otherInfo": {
-                "support": "Mehr Informationen",
                 "rate": "Bewerte uns auf Google Play",
                 "contactUs": "Schreibe uns eine Email",
                 "openSource": "Sieh dir das Projekt auf Github an",
-                "Version": "Version"
+                "Version": "Version",
+                "support": "Mehr Informationen"
             }
         }
     },
@@ -51,7 +51,7 @@
             },
             "button": "SUCHE"
         },
-        "error": "Du hast kein Ziel oder einen Startpunkt angegeben!",
+        "error": "Du hast kein Ziel oder einen Startpunkt angegeben",
         "internetError": "Keine Internetverbindung !"
     },
     "route": {
@@ -78,7 +78,7 @@
     },
     "otherErrors": {
         "stations": "Bitte versuche es später noch einmal!",
-        "route": "Wir können keine Route für diesen Tag finden!"
+        "route": "Wir können keine Route für diesen Tag finden"
     },
     "thanks": {
         "top": {
