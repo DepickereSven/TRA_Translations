@@ -1,98 +1,95 @@
 {
-  "language": {
-    "nameNative": "한국어"
-  },
-  "settings": {
-    "top": {
-      "title": "설정메뉴"
-    },
-    "center": {
-      "language": {
-        "chooseTitle": "당신의 언어를 선택하십시오",
-        "button": "저장하다"
-      },
-      "otherInfo": {
-        "support": "추가 정보",
-        "rate": "Google Play에 대한 평가",
-        "contactUs": "Email을 보내십시오",
-        "openSource": "Github 프로젝트 방문",
-        "Version": "버전"
-      }
-    }
-  },
-  "select": {
-    "searchBar": {
-      "hintText": {
-        "startStation": "출발역 선택",
-        "endStation": "도착역 선택"
-      }
-    },
-    "routeDetails": {
-      "departure": {
-        "hint": "역선택",
-        "label": "출발"
-      },
-      "arrival": {
-        "hint": "역선택",
-        "label": "도착"
-      },
-      "time": {
-        "label": "시간",
-        "modal": {
-          "top": {
-            "first": "출발",
-            "second": "도착"
-          },
-          "center": {
-            "button": "현재"
-          },
-          "bottom": {
-            "leftBtn": "버리다",
-            "rightBtn": "확정하다"
-          }
+    "settings": {
+        "top": {
+            "title": "설정메뉴"
+        },
+        "center": {
+            "language": {
+                "chooseTitle": "당신의 언어를 선택하십시오",
+                "button": "저장하다"
+            },
+            "otherInfo": {
+                "rate": "Google Play에 대한 평가",
+                "contactUs": "Email을 보내십시오",
+                "openSource": "Github 프로젝트 방문",
+                "Version": "버전",
+                "support": "추가 정보"
+            }
         }
-      },
-      "button": "찾다"
     },
-    "error": "목적지나 출발을 입력하지 않았습니다!",
-    "internetError": "인터넷에 연결되지 않음!"
-  },
-  "route": {
-    "top": {
-      "first": "출발역",
-      "second": "도착역"
+    "select": {
+        "searchBar": {
+            "hintText": {
+                "startStation": "출발역 선택",
+                "endStation": "도착역 선택"
+            }
+        },
+        "routeDetails": {
+            "departure": {
+                "hint": "역선택",
+                "label": "출발"
+            },
+            "arrival": {
+                "hint": "역선택",
+                "label": "도착"
+            },
+            "time": {
+                "label": "시간",
+                "modal": {
+                    "top": {
+                        "first": "출발",
+                        "second": "도착"
+                    },
+                    "center": {
+                        "button": "현재"
+                    },
+                    "bottom": {
+                        "leftBtn": "버리다",
+                        "rightBtn": "확정하다"
+                    }
+                }
+            },
+            "button": "찾다"
+        },
+        "error": "목적지나 출발을 입력하지 않았습니다!",
+        "internetError": "인터넷에 연결되지 않음!"
     },
-    "details": {
-      "top": {
-        "title": "여행내역"
-      },
-      "price": {
-        "single": "승차권 편도",
-        "ePrice": "전자 티켓"
-      }
+    "route": {
+        "top": {
+            "first": "출발역",
+            "second": "도착역"
+        },
+        "details": {
+            "top": {
+                "title": "여행내역"
+            },
+            "price": {
+                "single": "승차권 편도",
+                "ePrice": "전자 티켓"
+            }
+        },
+        "stopDetails": {
+            "top": {
+                "title": "열차 내역",
+                "type": "유형",
+                "number": "번호"
+            }
+        }
     },
-    "stopDetails": {
-      "top": {
-        "title": "열차 내역",
-        "type": "유형",
-        "number": "번호"
-      }
-    }
-  },
-  "otherErrors": {
-    "stations": "나중에 다시 시도하세요!",
-    "route": "우리는 그 날에 대한 경로를 찾을 수 없습니다!"
-  },
-  "thanks": {
-    "top": {
-      "title": ""
-    },
-    "information": {
-      "intro": "",
-      "btn": ""
+    "otherErrors": {
+        "stations": "나중에 다시 시도하세요!",
+        "route": "우리는 그 날에 대한 경로를 찾을 수 없습니다!"
     },
     "thanks": {
-      "intro": ""
+        "top": {
+            "title": "정보"
+        },
+        "information": {
+            "intro": "도움이 필요하면 다음 언어를 번역하는 데 도움이 될 수 있습니다.",
+            "btn": "번역 도움말"
+        },
+        "thanks": {
+            "intro": "번역에 도움을 주신 다음 분들께 감사드립니다."
+        }
     }
-  }
 }
