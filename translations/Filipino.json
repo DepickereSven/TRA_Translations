@@ -1,81 +1,95 @@
 {
-  "language": {
-    "nameNative": "Pilipino"
-  },
-  "settings": {
-    "top": {
-      "title": ""
+    "settings": {
+        "top": {
+            "title": ""
+        },
+        "center": {
+            "language": {
+                "chooseTitle": "",
+                "button": ""
+            },
+            "otherInfo": {
+                "rate": "",
+                "contactUs": "",
+                "openSource": "",
+                "Version": "",
+                "support": ""
+            }
+        }
     },
-    "center": {
-      "language": {
-        "chooseTitle": "",
-        "button": ""
-      },
-      "otherInfo": {
-        "rate": "",
-        "contactUs": "",
-        "openSource": "",
-        "Version": ""
-      }
-    }
-  },
-  "select": {
-    "searchBar": {
-      "hintText": {
-        "startStation": "",
-        "endStation": ""
-      }
+    "select": {
+        "searchBar": {
+            "hintText": {
+                "startStation": "",
+                "endStation": ""
+            }
+        },
+        "routeDetails": {
+            "departure": {
+                "hint": "",
+                "label": ""
+            },
+            "arrival": {
+                "hint": "",
+                "label": ""
+            },
+            "time": {
+                "label": "",
+                "modal": {
+                    "top": {
+                        "first": "",
+                        "second": ""
+                    },
+                    "center": {
+                        "button": ""
+                    },
+                    "bottom": {
+                        "leftBtn": "",
+                        "rightBtn": ""
+                    }
+                }
+            },
+            "button": ""
+        },
+        "error": "",
+        "internetError": ""
     },
-    "routeDetails": {
-      "departure": {
-        "hint": "",
-        "label": ""
-      },
-      "arrival": {
-        "hint": "",
-        "label": ""
-      },
-      "time": {
-        "label": "",
-        "modal": {
-          "top": {
+    "route": {
+        "top": {
             "first": "",
             "second": ""
-          },
-          "center": {
-            "button": ""
-          },
-          "bottom": {
-            "leftBtn": "",
-            "rightBtn": ""
-          }
+        },
+        "details": {
+            "top": {
+                "title": ""
+            },
+            "price": {
+                "single": "",
+                "ePrice": ""
+            }
+        },
+        "stopDetails": {
+            "top": {
+                "title": "",
+                "type": "",
+                "number": ""
+            }
         }
-      },
-      "button": ""
     },
-    "error": "",
-    "internetError": ""
-  },
-  "route": {
-    "top": {
-      "first": "",
-      "second": ""
+    "otherErrors": {
+        "stations": "",
+        "route": ""
     },
-    "details": {
-      "top": {
-        "title": ""
-      }
-    },
-    "stopDetails": {
-      "top": {
-        "title": "",
-        "type": "",
-        "number": ""
-      }
+    "thanks": {
+        "top": {
+            "title": ""
+        },
+        "information": {
+            "intro": "",
+            "btn": ""
+        },
+        "thanks": {
+            "intro": ""
+        }
     }
-  },
-  "otherErrors": {
-    "stations": "",
-    "route": ""
-  }
 }
