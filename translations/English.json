@@ -1,98 +1,95 @@
 {
-  "language": {
-    "nameNative": "English"
-  },
-  "settings": {
-    "top": {
-      "title": "Settings Menu"
-    },
-    "center": {
-      "language": {
-        "chooseTitle": "Choose your language",
-        "button": "Save"
-      },
-      "otherInfo": {
-        "support": "More information",
-        "rate": "Rate us on Google Play",
-        "contactUs": "Email us",
-        "openSource": "Visit the project on Github",
-        "Version": "Version"
-      }
-    }
-  },
-  "select": {
-    "searchBar": {
-      "hintText": {
-        "startStation": "Select departure station",
-        "endStation": "Select arrival station"
-      }
-    },
-    "routeDetails": {
-      "departure": {
-        "hint": "Select station",
-        "label": "From"
-      },
-      "arrival": {
-        "hint": "Select station",
-        "label": "To"
-      },
-      "time": {
-        "label": "Time",
-        "modal": {
-          "top": {
-            "first": "DEPARTURE",
-            "second": "ARRIVAL"
-          },
-          "center": {
-            "button": "Now"
-          },
-          "bottom": {
-            "leftBtn": "DISCARD",
-            "rightBtn": "CONFIRM"
-          }
+    "settings": {
+        "top": {
+            "title": "Settings Menu"
+        },
+        "center": {
+            "language": {
+                "chooseTitle": "Choose your language",
+                "button": "Save"
+            },
+            "otherInfo": {
+                "rate": "Rate us on Google Play",
+                "contactUs": "Email us",
+                "openSource": "Visit the project on Github",
+                "Version": "Version",
+                "support": "More Information"
+            }
         }
-      },
-      "button": "SEARCH"
     },
-    "error": "You didn't fill in a destination or departure!",
-    "internetError": "No internet connection!"
-  },
-  "route": {
-    "top": {
-      "first": "Departure Station",
-      "second": "Arrival Station"
+    "select": {
+        "searchBar": {
+            "hintText": {
+                "startStation": "Select departure station",
+                "endStation": "Select arrival station"
+            }
+        },
+        "routeDetails": {
+            "departure": {
+                "hint": "Select station",
+                "label": "From"
+            },
+            "arrival": {
+                "hint": "Select station",
+                "label": "To"
+            },
+            "time": {
+                "label": "Time",
+                "modal": {
+                    "top": {
+                        "first": "DEPARTURE",
+                        "second": "ARRIVAL"
+                    },
+                    "center": {
+                        "button": "Now"
+                    },
+                    "bottom": {
+                        "leftBtn": "DISCARD",
+                        "rightBtn": "CONFIRM"
+                    }
+                }
+            },
+            "button": "SEARCH"
+        },
+        "error": "You didn't fill in a destination or departure!",
+        "internetError": "No internet connection!"
     },
-    "details": {
-      "top": {
-        "title": "Travel Details"
-      },
-      "price": {
-        "single": "Single Ticket",
-        "ePrice": "E-ticket"
-      }
+    "route": {
+        "top": {
+            "first": "Departure Station",
+            "second": "Arrival Station"
+        },
+        "details": {
+            "top": {
+                "title": "Travel Details"
+            },
+            "price": {
+                "single": "Single Ticket",
+                "ePrice": "E-ticket"
+            }
+        },
+        "stopDetails": {
+            "top": {
+                "title": "Train Details",
+                "type": "Type",
+                "number": "Number"
+            }
+        }
     },
-    "stopDetails": {
-      "top": {
-        "title": "Train Details",
-        "type": "Type",
-        "number": "Number"
-      }
-    }
-  },
-  "otherErrors": {
-    "stations": "Please, Try again later!",
-    "route": "We can't find any route for that day!"
-  },
-  "thanks": {
-    "top": {
-      "title": "Information"
-    },
-    "information": {
-      "intro": "If you want to help, you can help translating the following languages:",
-      "btn": "Help translating"
+    "otherErrors": {
+        "stations": "Please, Try again later!",
+        "route": "We can't find any route for that day!"
     },
     "thanks": {
-      "intro": "I would like to thank the following persons for helping translating:"
+        "top": {
+            "title": "Information"
+        },
+        "information": {
+            "intro": "If you want to help, you can help translating the following languages:",
+            "btn": "Help translating"
+        },
+        "thanks": {
+            "intro": "I would like to thank the following persons for helping translating:"
+        }
     }
-  }
 }
