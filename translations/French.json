@@ -12,7 +12,8 @@
                 "rate": "",
                 "contactUs": "",
                 "openSource": "",
-                "Version": "Version"
+                "Version": "Version",
+                "support": ""
             }
         }
     },
@@ -61,6 +62,10 @@
         "details": {
             "top": {
                 "title": ""
+            },
+            "price": {
+                "single": "",
+                "ePrice": ""
             }
         },
         "stopDetails": {
@@ -74,5 +79,17 @@
     "otherErrors": {
         "stations": "",
         "route": ""
+    },
+    "thanks": {
+        "top": {
+            "title": ""
+        },
+        "information": {
+            "intro": "",
+            "btn": ""
+        },
+        "thanks": {
+            "intro": ""
+        }
     }
 }
