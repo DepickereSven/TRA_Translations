@@ -1,95 +1,95 @@
 {
-  "settings": {
-    "top": {
-      "title": "Opciones"
-    },
-    "center": {
-      "language": {
-        "chooseTitle": "Selecciona un idioma",
-        "button": "Guardar"
-      },
-      "otherInfo": {
-        "support": "",
-        "rate": "Valoranos en Google Play",
-        "contactUs": "Contacta con nosotros mediante email",
-        "openSource": "Visita la página del proyecto en Github",
-        "Version": "Versión"
-      }
-    }
-  },
-  "select": {
-    "searchBar": {
-      "hintText": {
-        "startStation": "Selecciona la estación de origen",
-        "endStation": "Selecciona la estación de destino"
-      }
-    },
-    "routeDetails": {
-      "departure": {
-        "hint": "Escoge una estación",
-        "label": "Origen"
-      },
-      "arrival": {
-        "hint": "Escoge una estación",
-        "label": "Destino"
-      },
-      "time": {
-        "label": "Fecha y hora",
-        "modal": {
-          "top": {
-            "first": "Salida",
-            "second": "Llegada"
-          },
-          "center": {
-            "button": "Ahora"
-          },
-          "bottom": {
-            "leftBtn": "Descartar",
-            "rightBtn": "Confirmar"
-          }
+    "settings": {
+        "top": {
+            "title": "Opciones"
+        },
+        "center": {
+            "language": {
+                "chooseTitle": "Selecciona un idioma",
+                "button": "Guardar"
+            },
+            "otherInfo": {
+                "rate": "Valoranos en Google Play",
+                "contactUs": "Contacta con nosotros mediante email",
+                "openSource": "Visita la página del proyecto en Github",
+                "Version": "Versión",
+                "support": "Más información"
+            }
         }
-      },
-      "button": "Buscar"
     },
-    "error": "¡No has seleccionado estación de origen o destino!",
-    "internetError": "¡No hay conexión a internet!"
-  },
-  "route": {
-    "top": {
-      "first": "Estación de origen",
-      "second": "Estación de destino"
+    "select": {
+        "searchBar": {
+            "hintText": {
+                "startStation": "Selecciona la estación de origen",
+                "endStation": "Selecciona la estación de destino"
+            }
+        },
+        "routeDetails": {
+            "departure": {
+                "hint": "Escoge una estación",
+                "label": "Origen"
+            },
+            "arrival": {
+                "hint": "Escoge una estación",
+                "label": "Destino"
+            },
+            "time": {
+                "label": "Fecha y hora",
+                "modal": {
+                    "top": {
+                        "first": "Salida",
+                        "second": "Llegada"
+                    },
+                    "center": {
+                        "button": "Ahora"
+                    },
+                    "bottom": {
+                        "leftBtn": "Descartar",
+                        "rightBtn": "Confirmar"
+                    }
+                }
+            },
+            "button": "Buscar"
+        },
+        "error": "¡No has seleccionado estación de origen o destino!",
+        "internetError": "¡No hay conexión a internet!"
     },
-    "details": {
-      "top": {
-        "title": "Detalles del recorrido"
-      },
-      "price": {
-        "single": "",
-        "ePrice": ""
-      }
+    "route": {
+        "top": {
+            "first": "Estación de origen",
+            "second": "Estación de destino"
+        },
+        "details": {
+            "top": {
+                "title": "Detalles del recorrido"
+            },
+            "price": {
+                "single": "Billete físico",
+                "ePrice": "Billete electrónico"
+            }
+        },
+        "stopDetails": {
+            "top": {
+                "title": "Detalles del tren",
+                "type": "Tipo",
+                "number": "Número"
+            }
+        }
     },
-    "stopDetails": {
-      "top": {
-        "title": "Detalles del tren",
-        "type": "Tipo",
-        "number": "Número"
-      }
-    }
-  },
-  "otherErrors": {
-    "stations": "¡Por favor, inténtelo de nuevo más tarde!",
-    "route": "¡No hemos podido encontrar ningún itinerario para ese día!"
-  },
-  "thanks": {
-    "top": {
-      "title": ""
-    },
-    "information": {
-      "intro": "",
-      "btn": ""
+    "otherErrors": {
+        "stations": "¡Por favor, inténtelo de nuevo más tarde!",
+        "route": "¡No hemos podido encontrar ningún itinerario para ese día!"
     },
     "thanks": {
-      "intro": ""
+        "top": {
+            "title": "Información"
+        },
+        "information": {
+            "intro": "Si deseas contribuir, puedes ayudarnos a traducir los siguientes idiomas:",
+            "btn": "Ayudar en la traducción"
+        },
+        "thanks": {
+            "intro": "Me gustaría agradecer a las siguientes personas por su ayuda con las traducciones:"
+        }
     }
-  }
 }
