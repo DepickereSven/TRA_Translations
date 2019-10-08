@@ -1,27 +1,27 @@
 {
     "settings": {
         "top": {
-            "title": ""
+            "title": "Paramètres"
         },
         "center": {
             "language": {
                 "chooseTitle": "Choisissez votre langue",
-                "button": ""
+                "button": "Enregistrer"
             },
             "otherInfo": {
-                "rate": "",
-                "contactUs": "",
-                "openSource": "",
+                "rate": "Évaluez-nous sur Google Play",
+                "contactUs": "Contactez-nous",
+                "openSource": "Visitez le projet sur Github",
                 "Version": "Version",
-                "support": ""
+                "support": "Plus d'information"
             }
         }
     },
     "select": {
         "searchBar": {
             "hintText": {
-                "startStation": "Gare de départ",
-                "endStation": ""
+                "startStation": "Sélectionnez la gare de départ",
+                "endStation": "Sélectionnez la gare d'arrivée"
             }
         },
         "routeDetails": {
@@ -30,66 +30,66 @@
                 "label": "À partir de"
             },
             "arrival": {
-                "hint": "",
+                "hint": "Sélectionnez la station",
                 "label": "À"
             },
             "time": {
-                "label": "",
+                "label": "L'heure",
                 "modal": {
                     "top": {
-                        "first": "",
-                        "second": ""
+                        "first": "DÉPART",
+                        "second": "ARRIVÉE"
                     },
                     "center": {
                         "button": "Maintenant"
                     },
                     "bottom": {
-                        "leftBtn": "",
-                        "rightBtn": ""
+                        "leftBtn": "ANNULER",
+                        "rightBtn": "ACCEPTER"
                     }
                 }
             },
-            "button": ""
+            "button": "RECHERCHER"
         },
-        "error": "",
-        "internetError": ""
+        "error": "Vous n'avez pas renseigné de destination ou de départ!",
+        "internetError": "Pas de connexion Internet!"
     },
     "route": {
         "top": {
-            "first": "",
-            "second": ""
+            "first": "Gare de départ",
+            "second": "Gare d'arrivée"
         },
         "details": {
             "top": {
-                "title": ""
+                "title": "Détails du voyage"
             },
             "price": {
-                "single": "",
-                "ePrice": ""
+                "single": "Billet",
+                "ePrice": "E-ticket"
             }
         },
         "stopDetails": {
             "top": {
-                "title": "",
+                "title": "Détails du train",
                 "type": "Type",
                 "number": "Nombre"
             }
         }
     },
     "otherErrors": {
-        "stations": "",
-        "route": ""
+        "stations": "Veuillez réessayer plus tard!",
+        "route": "Nous ne pouvons trouver aucun itinéraire pour ce jour!"
     },
     "thanks": {
         "top": {
-            "title": ""
+            "title": "Information"
         },
         "information": {
-            "intro": "",
-            "btn": ""
+            "intro": "Si vous voulez aider, vous pouvez aider à traduire les langues suivantes:",
+            "btn": "Aidez à traduire"
         },
         "thanks": {
-            "intro": ""
+            "intro": "Je voudrais remercier les personnes suivantes pour leur aide à la traduction:"
         }
     }
 }
