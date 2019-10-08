@@ -30,8 +30,8 @@
                 "label": "À partir de"
             },
             "arrival": {
-                "hint": "Sélectionnez la station",
-                "label": "À"
+                "hint": "Choisissez votre station",
+                "label": "À partir de"
             },
             "time": {
                 "label": "L'heure",
@@ -64,7 +64,7 @@
                 "title": "Détails du voyage"
             },
             "price": {
-                "single": "Billet",
+                "single": "Billet papier",
                 "ePrice": "E-ticket"
             }
         },
