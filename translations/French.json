@@ -27,11 +27,11 @@
         "routeDetails": {
             "departure": {
                 "hint": "Choisissez votre station",
-                "label": "À partir de"
+                "label": "Départ"
             },
             "arrival": {
                 "hint": "Choisissez votre station",
-                "label": "À partir de"
+                "label": "Arrivée"
             },
             "time": {
                 "label": "L'heure",
