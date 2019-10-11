@@ -1,95 +1,95 @@
 {
-  "settings": {
-    "top": {
-      "title": ""
-    },
-    "center": {
-      "language": {
-        "chooseTitle": "",
-        "button": ""
-      },
-      "otherInfo": {
-        "rate": "",
-        "contactUs": "",
-        "openSource": "",
-        "Version": "",
-        "support": ""
-      }
-    }
-  },
-  "select": {
-    "searchBar": {
-      "hintText": {
-        "startStation": "",
-        "endStation": ""
-      }
-    },
-    "routeDetails": {
-      "departure": {
-        "hint": "",
-        "label": ""
-      },
-      "arrival": {
-        "hint": "",
-        "label": ""
-      },
-      "time": {
-        "label": "",
-        "modal": {
-          "top": {
-            "first": "",
-            "second": ""
-          },
-          "center": {
-            "button": ""
-          },
-          "bottom": {
-            "leftBtn": "",
-            "rightBtn": ""
-          }
+    "settings": {
+        "top": {
+            "title": "Կարգավորումներ"
+        },
+        "center": {
+            "language": {
+                "chooseTitle": "Ընտրել լեզուն",
+                "button": "Պահպանել փոփոխությունները"
+            },
+            "otherInfo": {
+                "rate": "Գնահատեք մեզ Google Play հարթակում",
+                "contactUs": "Ուղարկել էլեկտրոնային նամակ",
+                "openSource": "Դիտել մեր նախագիծը GitHub կայքում",
+                "Version": "Տարբերակ",
+                "support": "Լրացուցիչ տեղեկատվություն"
+            }
         }
-      },
-      "button": ""
     },
-    "error": "",
-    "internetError": ""
-  },
-  "route": {
-    "top": {
-      "first": "",
-      "second": ""
+    "select": {
+        "searchBar": {
+            "hintText": {
+                "startStation": "Ընտրել մեկնման կայարանը",
+                "endStation": "Ընտրել ժամանման կայարանը"
+            }
+        },
+        "routeDetails": {
+            "departure": {
+                "hint": "Ընտրել կայարանը",
+                "label": "Որտեղից"
+            },
+            "arrival": {
+                "hint": "Ընտրել կայարանը",
+                "label": "Ուր"
+            },
+            "time": {
+                "label": "Ժամ",
+                "modal": {
+                    "top": {
+                        "first": "ՄԵԿՆՈՒՄ",
+                        "second": "ԺԱՄԱՆՈՒՄ"
+                    },
+                    "center": {
+                        "button": "Հիմա"
+                    },
+                    "bottom": {
+                        "leftBtn": "ՀԵՐՔԵԼ",
+                        "rightBtn": "ՀԱՍՏԱՏԵԼ"
+                    }
+                }
+            },
+            "button": "ՓՆՏՐԵԼ"
+        },
+        "error": "Մեկնման կամ ժամանման վայրը լրացված չէ:",
+        "internetError": "Ինտերնետ կապ չկա:"
     },
-    "details": {
-      "top": {
-        "title": ""
-      },
-      "price": {
-        "single": "",
-        "ePrice": ""
-      }
+    "route": {
+        "top": {
+            "first": "Մեկնման կայարան",
+            "second": "Ժամանման կայարան"
+        },
+        "details": {
+            "top": {
+                "title": "Ուղևորության տվյալներ"
+            },
+            "price": {
+                "single": "Միակողմանի տոմս",
+                "ePrice": "Էլեկտրոնային տոմս"
+            }
+        },
+        "stopDetails": {
+            "top": {
+                "title": "Գնացքի տվյալներ",
+                "type": "Տեսակ",
+                "number": "Համար"
+            }
+        }
     },
-    "stopDetails": {
-      "top": {
-        "title": "",
-        "type": "",
-        "number": ""
-      }
-    }
-  },
-  "otherErrors": {
-    "stations": "",
-    "route": ""
-  },
-  "thanks": {
-    "top": {
-      "title": ""
-    },
-    "information": {
-      "intro": "",
-      "btn": ""
+    "otherErrors": {
+        "stations": "Խնդրում ենք փորձել ավելի ուշ:",
+        "route": "Նշված օրվա համար երթուղի չի գտնվել:"
     },
     "thanks": {
-      "intro": ""
+        "top": {
+            "title": "Տեղեկատվություն"
+        },
+        "information": {
+            "intro": "Եթե ցանկանում եք օգնել մեզ, ապա կարող եք թարգմանել մեր հավելվածը հետևյալ լեզուներով.",
+            "btn": "Օգնեք մեզ թարգմանել"
+        },
+        "thanks": {
+            "intro": "Թարգմանության համար շնորհակալություն ենք հայտնում հետևյալ անձանց."
+        }
     }
-  }
 }
